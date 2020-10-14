@@ -28,8 +28,9 @@ public class Main {
    * @param args the command line arguments
    */
   public static void main(String[] args) {
-    
+    //create a variable for the total amount of ones
     int total = countsOnes(357);
+    //tell user the amount of ones they have in their number
     System.out.println(total);
   } 
 }
